@@ -5,7 +5,7 @@
     <link>https://example.com/tag/%E5%BC%80%E6%BA%90/</link>
       <atom:link href="https://example.com/tag/%E5%BC%80%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
     <description>开源</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 May 2022 11:19:14 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>开源</title>
@@ -15,7 +15,7 @@
     <item>
       <title>My first post!</title>
       <link>https://example.com/post/getting-started/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 May 2022 11:19:14 +0300</pubDate>
       <guid>https://example.com/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
@@ -68,6 +68,30 @@
 &lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Управление версиями GIT</title>
+      <link>https://example.com/post/versionsgit/</link>
+      <pubDate>Wed, 04 May 2022 11:19:14 +0300</pubDate>
+      <guid>https://example.com/post/versionsgit/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Git – это разновидность VCS (Version Control System). А VCS – это программа для работы с постоянно изменяющейся информацией. Такое ПО может хранить множество версий одного и того же файла (документа) и возвращаться к более раннему состоянию (версии).&lt;/p&gt;
+&lt;p&gt;Например, код пишут четыре программиста. Они работают в разных местах, с разных компьютеров, в разное время. VCS сохраняет все изменения, внесенные всеми программистами, и в любой момент можно вернуться к версии, созданной три дня или месяц назад.&lt;/p&gt;
+&lt;p&gt;Какие VCS есть в природе:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;собственно Git;&lt;/li&gt;
+&lt;li&gt;SVN;&lt;/li&gt;
+&lt;li&gt;Mercurial;&lt;/li&gt;
+&lt;li&gt;Team Foundation Server.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Все они делятся на два типа:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;распределенные (Git, Mercurial) – изменения хранятся в локальных хранилищах компьютеров и оттуда синхронизируются с другими компьютерами;&lt;/li&gt;
+&lt;li&gt;централизованные (CVS, SVN) – все данные хранятся на центральном сервере, и оттуда каждый локальный компьютер получает обновленные данные.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Git относится к распределенным системам, поэтому не зависит от центрального сервера, где хранятся файлы. Git сохраняет данные в локальном репозитории. Что такое репозиторий Git? Это каталог на жестком диске рабочего компьютера программиста. Для большей стабильности и ускорения синхронизации разных версий проекта локальный репозиторий хранят онлайн в специальных сервисах: Github, Gitlab, Bitbucket.&lt;/p&gt;
 </description>
     </item>
     

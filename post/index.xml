@@ -5,12 +5,45 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 May 2022 11:19:14 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 May 2022 11:19:20 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://example.com/post/markd/</link>
+      <pubDate>Thu, 05 May 2022 11:19:20 +0300</pubDate>
+      <guid>https://example.com/post/markd/</guid>
+      <description>&lt;h2 id=&#34;markdown&#34;&gt;Markdown&lt;/h2&gt;
+&lt;p&gt;Маркдаун, он же markdown — удобный и быстрый способ разметки текста. Маркдаун используют, если недоступен HTML, а текст нужно сделать читаемым и хотя бы немного размеченным (заголовки, списки, картинки, ссылки).&lt;/p&gt;
+&lt;p&gt;Главный пример использования маркдауна, с которым мы часто сталкиваемся — файлы readme.md, которые есть в каждом репозитории на Гитхабе. md в имени файла это как раз сокращение от markdown.&lt;/p&gt;
+&lt;p&gt;Другой частый пример — сообщения в мессенджерах. Можно поставить звёздочки вокруг текста в Телеграме, и текст станет полужирным.&lt;/p&gt;
+&lt;h2 id=&#34;где-попробовать-маркдаун&#34;&gt;Где попробовать маркдаун?&lt;/h2&gt;
+&lt;p&gt;Установите Visual Studio Code и расширение HTML Preview, сохраните новый файл с любым именем и расширением md, а потом нажмите ctrl+k v. После этого можете играть с маркдауном и сразу смотреть, что получается. Все примеры из статьи как раз сделаны там.&lt;/p&gt;
+&lt;h2 id=&#34;спасибо-за-внимание&#34;&gt;Спасибо за внимание!&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My last week 2</title>
+      <link>https://example.com/post/my_week2/</link>
+      <pubDate>Thu, 05 May 2022 11:19:14 +0300</pubDate>
+      <guid>https://example.com/post/my_week2/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;В рамках прошлой недели я сделал:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Две лабораторные работы по операционным системам&lt;/li&gt;
+&lt;li&gt;Второй этап индивидуального проекта по операционным системам&lt;/li&gt;
+&lt;li&gt;Сходил к кардиологу и узнал, что со мной всё впринципе впорядке&lt;/li&gt;
+&lt;li&gt;Убрался в комнате&lt;/li&gt;
+&lt;li&gt;Углубился в С++&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Спасибо за внимание!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>My first post!</title>

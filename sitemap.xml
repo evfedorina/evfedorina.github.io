@@ -10,21 +10,25 @@
   <url>
     <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-05-05T11:20:14+03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-05-17T11:21:30+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tag/academic/</loc><lastmod>2022-05-05T11:20:14+03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/tag/academic/</loc><lastmod>2022-05-17T11:21:30+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/categories/</loc><lastmod>2022-05-05T11:20:14+03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/categories/</loc><lastmod>2022-05-17T11:21:30+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/category/demo/</loc><lastmod>2022-05-05T11:20:14+03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/category/demo/</loc><lastmod>2022-05-17T11:21:30+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-05-05T11:20:14+03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-05-17T11:21:30+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/post/otch/</loc><lastmod>2022-05-17T11:21:30+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/post/</loc><lastmod>2022-05-17T11:21:30+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tags/</loc><lastmod>2022-05-17T11:21:30+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/post/my_week3/</loc><lastmod>2022-05-17T11:19:14+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/markd/</loc><lastmod>2022-05-05T11:20:14+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/post/</loc><lastmod>2022-05-05T11:20:14+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tags/</loc><lastmod>2022-05-05T11:20:14+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/my_week2/</loc><lastmod>2022-05-05T11:19:14+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

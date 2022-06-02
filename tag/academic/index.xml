@@ -5,7 +5,7 @@
     <link>https://example.com/tag/academic/</link>
       <atom:link href="https://example.com/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 May 2022 11:11:20 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jun 2022 11:11:20 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
@@ -13,7 +13,46 @@
     </image>
     
     <item>
-      <title>Языки научного программирования - С&#43;&#43;</title>
+      <title>How to make lectures?</title>
+      <link>https://example.com/post/reports/</link>
+      <pubDate>Thu, 02 Jun 2022 11:11:20 +0300</pubDate>
+      <guid>https://example.com/post/reports/</guid>
+      <description>&lt;p&gt;##How to write a report correctly - briefly about the main thing&lt;/p&gt;
+&lt;p&gt;Incorrect design of the report can spoil the impression of even a very interesting topic. Therefore, if the teacher has not given you any special instructions for the presentation of the report, use our advice. The article presents the most common rules for the design of research papers.&lt;/p&gt;
+&lt;p&gt;##General design requirements&lt;/p&gt;
+&lt;p&gt;First, you need to understand what a report is.&lt;/p&gt;
+&lt;p&gt;A report is an oral communication on a specific topic. Often, no formalization for the report is required at all. If you do not submit a report after the presentation for verification, you can issue it in absolutely any form. The main thing is your own convenience for public reading of the text.&lt;/p&gt;
+&lt;p&gt;The situation is completely different with reports that need to be submitted for verification to a teacher, teacher or competition commission. In this case, it is necessary to be guided by the requirements that the inspector imposes on the design of the work. This is where the problems begin. If for term papers and theses special guidelines for their design are usually issued, then for reports such instructions are issued extremely rarely. Does this mean that you can give free rein to your imagination and put all your creative impulses on paper? Not at all.&lt;/p&gt;
+&lt;p&gt;##General design requirements&lt;/p&gt;
+&lt;p&gt;First, you need to understand what a report is.&lt;/p&gt;
+&lt;p&gt;##How to format the text of the report&lt;/p&gt;
+&lt;p&gt;The text of the report is issued in Times New Roman 14 pt or 12 pt. For writing the main text, only lowercase letters are allowed.&lt;/p&gt;
+&lt;p&gt;Paragraph indentation, which is 1.25 cm, should be used throughout the text. One and a half line spacing is most often used, but a single line spacing is allowed.&lt;/p&gt;
+&lt;p&gt;Do not put a period after the titles of chapters. Titles of chapters can be capitalized and bold.&lt;/p&gt;
+&lt;h2 id=&#34;thank-you-for-your-attention&#34;&gt;Thank you for your attention!&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 5</title>
+      <link>https://example.com/post/my_week5/</link>
+      <pubDate>Wed, 01 Jun 2022 10:19:14 +0300</pubDate>
+      <guid>https://example.com/post/my_week5/</guid>
+      <description>&lt;h2 id=&#34;within-last-week-i-did&#34;&gt;Within last week I did:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Again, two laboratory work on operating systems (soon the last two)&lt;/li&gt;
+&lt;li&gt;Fifth stage of an individual project on operating systems&lt;/li&gt;
+&lt;li&gt;Report on OS and then defended it&lt;/li&gt;
+&lt;li&gt;Bought yogurt and vegetables&lt;/li&gt;
+&lt;li&gt;Completed programming laboratory&lt;/li&gt;
+&lt;li&gt;I rode a lot at VDNKh and along the embankment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thank you for your attention!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43; - programming language for science</title>
       <link>https://example.com/post/%D1%81&#43;&#43;/</link>
       <pubDate>Thu, 26 May 2022 11:11:20 +0300</pubDate>
       <guid>https://example.com/post/%D1%81&#43;&#43;/</guid>
